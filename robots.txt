@@ -1,0 +1,16 @@
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Yandex
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Host: https://cozy-figma-cover.lovable.app
+Sitemap: https://cozy-figma-cover.lovable.app/sitemap.xml
